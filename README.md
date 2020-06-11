@@ -1,0 +1,1 @@
+# Forecasting-USD-to-IDR-for-12-month-with-ARIMA-Model
